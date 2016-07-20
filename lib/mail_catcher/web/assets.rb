@@ -1,5 +1,4 @@
 require "sprockets"
-require "sprockets-sass"
 require "compass"
 
 module MailCatcher
